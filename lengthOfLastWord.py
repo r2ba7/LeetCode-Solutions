@@ -7,5 +7,3 @@ class Solution:
                 return chars
             chars+=1
         return chars
-            
-        
